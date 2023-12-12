@@ -1,4 +1,4 @@
-# Boosting the Cross-Architecture Generalization of Dataset Distillation through an Empirical Study  (ELF)
+# [Boosting the Cross-Architecture Generalization of Dataset Distillation through an Empirical Study  (ELF)](https://arxiv.org/abs/2312.05598)
 
 ### Getting Started
 
